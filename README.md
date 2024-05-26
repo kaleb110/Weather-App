@@ -2,16 +2,13 @@
 
 ### [Live Site](https://kaleb110.github.io/portfolio-react/)
 
-[![Portfolio Website](https://i.postimg.cc/KjLtsvjK/Screenshot-2024-05-14-212114.png)](https://postimg.cc/GTLB4Rkr)
+[![Portfolio Website](https://i.postimg.cc/bw91ZX52/Screenshot-2024-05-26-170344.png)](https://postimg.cc/GTLB4Rkr)
 
 ## Introduction
-This is a portfolio website which is made with these technologies:
+This is a Simple Weather application made with:
 
-- reactjs is used as a javascript framework in this project which makes development much easier and efficent.
-
-- tailwind css is used for making css with less lines of code and for many amazing features that are not present in pure css.
-
-- vite is used as a built tool for building the app.
+- pure html, css and javascript.
+- OpenWeather API
 
 Setup:
-- run ```npm i && npm run dev``` to start the development server
+- download the repo and open it in the browser.
